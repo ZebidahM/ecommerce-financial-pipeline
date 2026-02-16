@@ -4,6 +4,7 @@
 Developed a scalable data pipeline to transform raw, messy e-commerce data into actionable executive insights. This project simulates a real-world scenario where data is cleaned locally, hosted in a cloud environment, and visualized for stakeholders to monitor global revenue and customer retention.
 
 **Technical Architecture**
+
 Data Cleaning (Python): Processed a 1M row dataset to handle missing values, correct data types (DateTime locale issues), and engineer new features like TotalRevenue and IsChurned.
 
 Cloud Infrastructure (Azure): Deployed an Azure Data Lake Storage Gen2 environment. Organized data within Resource Groups and secure Containers for optimized cloud storage.
