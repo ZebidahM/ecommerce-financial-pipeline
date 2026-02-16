@@ -5,8 +5,18 @@ Developed a scalable data pipeline to transform raw, messy e-commerce data into 
 
 **Technical Architecture**
 
-Data Cleaning (Python): Processed a 1M row dataset to handle missing values, correct data types (DateTime locale issues), and engineer new features like TotalRevenue and IsChurned.
+1. Data Cleaning (Python): Processed a 1M row dataset to handle missing values, correct data types (DateTime locale issues), and engineer new features like TotalRevenue and IsChurned.
 
-Cloud Infrastructure (Azure): Deployed an Azure Data Lake Storage Gen2 environment. Organized data within Resource Groups and secure Containers for optimized cloud storage.
+2. Cloud Infrastructure (Azure): Deployed an Azure Data Lake Storage Gen2 environment. Organized data within Resource Groups and secure Containers for optimized cloud storage.
 
-BI Integration (Power BI): Established a live connection between Azure Blob Storage and Power BI Desktop using Access Keys and Power Query.
+3. BI Integration (Power BI): Established a live connection between Azure Blob Storage and Power BI Desktop using Access Keys and Power Query.
+
+**Business Insights Delivered**
+
+1. Executive KPIs: Real-time tracking of Total Gross Revenue and Distinct Active Customer counts.
+
+2. Geographic Expansion: A Top-10 Stacked Bar Chart identifying high-value markets (UK, Netherlands, Germany, etc.), filtered for executive clarity.
+
+3. Customer Churn Analysis: Identified "At-Risk" revenue by segmenting customers based on a 90-day inactivity threshold.
+
+4. Revenue Projections: Implemented time-series forecasting to project sales trends into the upcoming fiscal year.
