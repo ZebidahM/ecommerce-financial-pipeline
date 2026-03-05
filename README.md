@@ -1,7 +1,7 @@
 # ecommerce-financial-pipeline📊
 **Project Overview**
 
-Developed a scalable data pipeline to transform raw, messy e-commerce data into actionable executive insights. This project simulates a real-world scenario where data is cleaned locally, hosted in a cloud environment, and visualized for stakeholders to monitor global revenue and customer retention.
+Developed a scalable data pipeline to transform raw, messy e-commerce data into actionable insights. This project simulates a real-world scenario where data is cleaned locally, hosted in a cloud environment, and visualized for stakeholders to monitor global revenue and customer retention.
 
 **Technical Architecture**
 
@@ -13,7 +13,7 @@ Developed a scalable data pipeline to transform raw, messy e-commerce data into 
 
 **Business Insights Delivered**
 
-1. Executive KPIs: Real-time tracking of Total Gross Revenue and Distinct Active Customer counts.
+1.  KPIs: Real-time tracking of Total Gross Revenue and Distinct Active Customer counts.
 
 2. Geographic Expansion: A Top-10 Stacked Bar Chart identifying high-value markets (UK, Netherlands, Germany, etc.), filtered for executive clarity.
 
