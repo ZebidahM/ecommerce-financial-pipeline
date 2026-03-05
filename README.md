@@ -20,3 +20,5 @@ Developed a scalable data pipeline to transform raw, messy e-commerce data into 
 3. Customer Churn Analysis: Identified "At-Risk" revenue by segmenting customers based on a 90-day inactivity threshold.
 
 4. Revenue Projections: Implemented time-series forecasting to project sales trends into the upcoming fiscal year.
+   <img width="1052" height="593" alt="ecommercedashboard" src="https://github.com/user-attachments/assets/15c0c9cc-d28b-4b36-8352-e2080e90980b" />
+
